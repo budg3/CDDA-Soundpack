@@ -1,0 +1,6 @@
+#CDDA-Soundpack
+#Name of the soundpack
+NAME: CDDA-Soundpack
+#Viewing name of the soundpack
+VIEW: CDDA-Soundpack
+DESCRIPTION: Soundpack for CDDA covering all the available sounds as of 04/19-2018. Includes ambient music as well.

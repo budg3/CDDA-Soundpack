@@ -1,11 +1,12 @@
 # CDDA-Soundpack
 
-This is based on ChestHole's soundpack with some RRFSounds mixed in, but with the sounds cleaned up and some of them replaced (monster sounds, footsteps, thunder, rain, explosions etc). The music with rain embedded into them were replaced with new songs as well. This should fix the "it's raining while it's not raining bug". Covered the weapon sounds for all firearms in vanilla experimental (as of May 2018). Finally this adds sound effects to the bionics that were missing and A LOT of missing smash sounds for terrain and furniture. This soundpack covers all available sounds supported by soundpacks (as of May 2018).
+This is based on ChestHole's soundpack with some RRFSounds mixed in, but with the sounds cleaned up and some of them replaced (monster sounds, footsteps, thunder, rain, explosions etc). The music with rain embedded into them were replaced with new songs as well. This should fix the "it's raining while it's not raining bug". Covered the weapon sounds for all ranged weapons in vanilla experimental (as of May 2018). Finally this adds sound effects to the bionics that were missing and A LOT of missing smash sounds for terrain and furniture. This soundpack covers all available sounds supported by soundpacks (as of May 2018).
 
-# Supported Mods
+# Supported Mods that add ranged weapons
 - Artyoms' Gun Emporium
 - Bionics Systems Mod
 - Vehicle Additions Pack
+- Tanks and Other Vehicles
 - Icecoon's Arsenal
 - DeadLeaves' Fictional Guns
 - Modern Weapon Pack Expanded
@@ -13,6 +14,8 @@ This is based on ChestHole's soundpack with some RRFSounds mixed in, but with th
 - PKs Rebalancing
 - Extended Realistic Guns
 - vorpal weapons
+
+Mods that add new melee weapons should work automatically.
 
 # Music from
 - ??? (I don't know where the ones included with the original soundpack are from - my guess is Fallout and S.T.A.L.K.E.R.)
@@ -35,4 +38,4 @@ If you want to replace the music and use your own, you can replace the bg .ogg f
 - Vulkan (the original soundpack creator that led to soundpack support in CDDA)
 - Chezzo (ChestHole's soundpack)
 - Pip12345 (RRFSounds soundpack)
-- JP Anon (for adding support to a bunch of weapon mods - 本当にありがとうございました！)
+- JP Anon (for adding support to a bunch of mods that add ranged weapons - 本当にありがとうございました！)

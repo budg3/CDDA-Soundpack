@@ -3383,6 +3383,86 @@
 			"guns/misc_generic/120mm_fire_distant02.ogg"
         ]
     },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 80,
+        "variant" : "tank_gun_manual",
+        "files" : [
+            "guns/misc_generic/weapon_fire_120mm.ogg",
+			"guns/misc_generic/weapon_fire_120mm_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 90,
+        "variant" : "tank_gun_manual",
+        "files" : [
+            "guns/misc_generic/120mm_fire_distant01.ogg",
+			"guns/misc_generic/120mm_fire_distant02.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 80,
+        "variant" : "tank_gun_auto",
+        "files" : [
+            "guns/misc_generic/weapon_fire_120mm.ogg",
+			"guns/misc_generic/weapon_fire_120mm_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 90,
+        "variant" : "tank_gun_auto",
+        "files" : [
+            "guns/misc_generic/120mm_fire_distant01.ogg",
+			"guns/misc_generic/120mm_fire_distant02.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 80,
+        "variant" : "tank_gun_rws",
+        "files" : [
+            "guns/misc_generic/weapon_fire_120mm.ogg",
+			"guns/misc_generic/weapon_fire_120mm_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 90,
+        "variant" : "tank_gun_rws",
+        "files" : [
+            "guns/misc_generic/120mm_fire_distant01.ogg",
+			"guns/misc_generic/120mm_fire_distant02.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 80,
+        "variant" : "howitzer_gun",
+        "files" : [
+            "guns/misc_generic/weapon_fire_120mm.ogg",
+			"guns/misc_generic/weapon_fire_120mm_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 90,
+        "variant" : "howitzer_gun",
+        "files" : [
+            "guns/misc_generic/120mm_fire_distant01.ogg",
+			"guns/misc_generic/120mm_fire_distant02.ogg"
+        ]
+    },
     {
         "type": "sound_effect",
         "id" : "fire_gun",
@@ -4000,6 +4080,42 @@
         "id" : "fire_gun_distant",
         "volume" : 90,
         "variant" : "m3_carlgustav",
+        "files" : [
+            "guns/misc_generic/rocket_distant.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 90,
+        "variant" : "atgm_launcher",
+        "files" : [
+            "guns/misc_generic/weapon_fire_rocket.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 90,
+        "variant" : "atgm_launcher",
+        "files" : [
+            "guns/misc_generic/rocket_distant.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 90,
+        "variant" : "atgm_turret",
+        "files" : [
+            "guns/misc_generic/weapon_fire_rocket.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 90,
+        "variant" : "atgm_turret",
         "files" : [
             "guns/misc_generic/rocket_distant.ogg"
         ]
